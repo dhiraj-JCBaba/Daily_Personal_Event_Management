@@ -11,4 +11,5 @@
 8. Finally Run The Project `python manage.py runserver`
 
 ## Preview
-![event-management](https://user-images.githubusercontent.com/39632170/88448650-d641af80-ce61-11ea-85e1-dc256d1e8155.png)
+![image](https://github.com/dhiraj-JCBaba/Daily_Personal_Event_Management/assets/89478052/165d1e77-24e1-413c-81fe-1ee6828408da)
+
