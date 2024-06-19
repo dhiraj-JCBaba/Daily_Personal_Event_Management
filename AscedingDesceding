@@ -1,0 +1,17 @@
+numberslist = [1,2,3,78,6,7]
+
+listCopy = numberslist.copy()
+decrease_order = []
+
+def decreOrder(list):
+    for i in numberslist:
+        max_number=0
+        max_number = max(listCopy)
+        if max_number not in decrease_order:
+            decrease_order.append(max_number)
+        listCopy.remove(max_number)
+    print(decrease_order)
+    return decrease_order
+    
+decreOrder(numberslist)
+        
